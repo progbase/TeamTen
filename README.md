@@ -1,5 +1,5 @@
 # TeamTen
-https://github.com/orgs/progbase/teams/teamten
+https://github.com/progbase/TeamTen
 
 Team members:
 
