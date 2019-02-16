@@ -18,7 +18,7 @@ Team members:
 7.Ivan Cherniaiev
 
 
-# Project: Laser Blade
+# Project: Lightsaber
 
 Project description...
 
