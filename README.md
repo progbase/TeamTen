@@ -24,6 +24,7 @@ While(true)
 
 Artifacts:
 
+* [Presentation](#)
 * [Trello board](https://github.com/orgs/progbase/projects/11)
 * [Project documentation](https://drive.google.com/open?id=1KNX3V0pukPLRQGCtuADJFzGPhEOYDvKN)
 
