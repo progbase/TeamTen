@@ -19,8 +19,8 @@ Team members:
 
 
 # Project: Lightsaber
-
-Project description...
+While(true)
+{ May the Force be with you! }
 
 Artifacts:
 
