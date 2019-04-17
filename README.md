@@ -30,5 +30,4 @@ Artifacts:
 * [Task Board](https://github.com/orgs/progbase/projects/11)
 * [GoogleDrive](https://drive.google.com/open?id=1KNX3V0pukPLRQGCtuADJFzGPhEOYDvKN)
 * [Sprint 2](https://docs.google.com/presentation/d/1_8g2VN1c6_E0CtxDGEY1QB5LS8Z2AKgBPEcuZEta804/edit?usp=sharing)
-* [Documentation](https://docs.google.com/presentation/d/1_8g2VN1c6_E0CtxDGEY1QB5LS8Z2AKgBPEcuZEta804/edit?usp=sharing)
-* [Vidosik](https://docs.google.com/presentation/d/1_8g2VN1c6_E0CtxDGEY1QB5LS8Z2AKgBPEcuZEta804/edit?usp=sharing)
+* [Documentation](https://docs.google.com/document/d/1NDsl8vQHZNujWxYTw1cMmHmjvsJPlwbwHdhnCicVrmc/edit?usp=sharing)
